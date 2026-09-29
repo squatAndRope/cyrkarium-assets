@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1046.78 726.4">
+  <defs>
+    <style>
+      .c, .d {
+        fill: none;
+      }
+
+      .e {
+        fill: url(#b);
+      }
+
+      .f {
+        font-size: 18px;
+      }
+
+      .f, .g, .h {
+        font-family: HelveticaNeue, 'Helvetica Neue';
+      }
+
+      .g {
+        font-size: 17.61px;
+      }
+
+      .h {
+        font-size: 17.61px;
+      }
+
+      .i {
+        font-size: 19.57px;
+      }
+
+      .i, .j {
+        font-family: HelveticaNeue-Medium, 'Helvetica Neue';
+        font-weight: 500;
+      }
+
+      .j {
+        font-size: 20px;
+      }
+
+      .k, .l {
+        fill: #fff;
+      }
+
+      .l {
+        stroke-linecap: square;
+        stroke-linejoin: round;
+      }
+
+      .l, .d {
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .m {
+        letter-spacing: -.18em;
+      }
+
+      .n {
+        letter-spacing: -.18em;
+      }
+
+      .o {
+        letter-spacing: -.18em;
+      }
+
+      .p {
+        letter-spacing: -.06em;
+      }
+
+      .q {
+        letter-spacing: -.06em;
+      }
+
+      .r {
+        letter-spacing: -.05em;
+      }
+
+      .d {
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="b" x1="628.22" y1="627.12" x2="730.58" y2="686.22" gradientUnits="userSpaceOnUse">
+      <stop offset=".23" stop-color="#f9f8eb"/>
+      <stop offset=".29" stop-color="#efece8"/>
+      <stop offset=".41" stop-color="#d7cee2"/>
+      <stop offset=".46" stop-color="#ccc0df"/>
+      <stop offset=".85" stop-color="#542d7a"/>
+    </linearGradient>
+  </defs>
+  <text transform="translate(208.12 18.28)"><tspan class="i"><tspan x="0" y="0">FUNDACJA CYRKARIUM</tspan></tspan><tspan class="g"><tspan x="13.93" y="37.07">UL. B</tspan><tspan class="n" x="58.3" y="37.07">P</tspan><tspan x="66.56" y="37.07">. DOMINIKA 27A/6</tspan></tspan><tspan class="g"><tspan x="50.69" y="61.79">81-402 GDYNIA</tspan></tspan><tspan class="g"><tspan x="-20.8" y="86.5">KRS 0001161256 NIP5862415612</tspan></tspan><tspan class="g"><tspan x="31.14" y="111.22" xml:space="preserve"> ww</tspan><tspan class="r" x="62.74" y="111.22">w</tspan><tspan x="75.12" y="111.22">.cyrkarium.com</tspan></tspan></text>
+  <g>
+    <path class="k" d="M134.98,4.51v130.46H4.5V4.51h130.48M137.98,1.51H1.5v136.46h136.48V1.51h0Z"/>
+    <g>
+      <rect class="d" x="1.5" y="1.51" width="136.46" height="136.46"/>
+      <path d="M69.79,4.48c14.36,0,28.56,4.88,39.98,13.74,11.76,9.13,19.84,21.62,23.36,36.12,8.49,34.95-13.04,70.3-48,78.79-5.08,1.23-10.28,1.86-15.45,1.86-14.36,0-28.56-4.88-39.98-13.74-11.76-9.13-19.84-21.62-23.36-36.12C-2.15,50.17,19.38,14.83,54.34,6.34c5.08-1.23,10.27-1.86,15.45-1.86h0M69.78,1.48c-5.33,0-10.75.63-16.16,1.94C17.01,12.32-5.47,49.22,3.42,85.84c7.58,31.21,35.5,52.15,66.25,52.15,5.33,0,10.75-.63,16.16-1.94,36.62-8.89,59.1-45.79,50.21-82.41C128.46,22.42,100.54,1.48,69.78,1.48h0Z"/>
+      <path d="M92.47,1.5c-8.55,52.75-15.49,59.68-68.24,68.24,52.75,8.56,59.69,15.49,68.24,68.24,8.55-52.75,15.49-59.68,68.24-68.24-52.75-8.55-59.69-15.49-68.24-68.24Z"/>
+    </g>
+  </g>
+  <text transform="translate(795.05 18.28)"><tspan class="i"><tspan x="0" y="0">FUNDACJA CYRKARIUM</tspan></tspan><tspan class="h"><tspan x="13.93" y="37.07">UL. B</tspan><tspan class="m" x="58.3" y="37.07">P</tspan><tspan x="66.56" y="37.07">. DOMINIKA 27A/6</tspan></tspan><tspan class="h"><tspan x="50.69" y="61.79">81-402 GDYNIA</tspan></tspan><tspan class="h"><tspan x="-20.8" y="86.5">KRS 0001161256 NIP5862415612</tspan></tspan><tspan class="h"><tspan x="31.14" y="111.22" xml:space="preserve"> ww</tspan><tspan class="q" x="62.74" y="111.22">w</tspan><tspan x="75.12" y="111.22">.cyrkarium.com</tspan></tspan></text>
+  <g>
+    <path class="k" d="M721.91,4.51v130.46h-130.48V4.51h130.48M724.91,1.51h-136.48v136.46h136.48V1.51h0Z"/>
+    <g>
+      <rect class="d" x="588.43" y="1.51" width="136.46" height="136.46"/>
+      <path d="M656.72,4.48c14.36,0,28.56,4.88,39.98,13.74,11.76,9.13,19.84,21.62,23.36,36.12,8.49,34.95-13.04,70.3-48,78.79-5.08,1.23-10.28,1.86-15.45,1.86-14.36,0-28.56-4.88-39.98-13.74-11.76-9.13-19.84-21.62-23.36-36.12-4.11-16.93-1.38-34.45,7.68-49.33,9.07-14.88,23.38-25.34,40.32-29.45,5.08-1.23,10.27-1.86,15.45-1.86h0M656.71,1.48c-5.33,0-10.75.63-16.16,1.94-36.62,8.89-59.1,45.79-50.21,82.41,7.58,31.21,35.5,52.15,66.25,52.15,5.33,0,10.75-.63,16.16-1.94,36.62-8.89,59.1-45.79,50.21-82.41-7.58-31.21-35.5-52.15-66.25-52.15h0Z"/>
+      <path class="l" d="M679.4,1.5c-8.55,52.75-15.49,59.68-68.24,68.24,52.75,8.56,59.69,15.49,68.24,68.24,8.55-52.75,15.49-59.68,68.24-68.24-52.75-8.55-59.69-15.49-68.24-68.24Z"/>
+    </g>
+  </g>
+  <text transform="translate(205.62 604.08)"><tspan class="j"><tspan x="0" y="0">FUNDACJA CYRKARIUM</tspan></tspan><tspan class="f"><tspan x="14.24" y="37.89">UL. B</tspan><tspan class="o" x="59.58" y="37.89">P</tspan><tspan x="68.02" y="37.89">. DOMINIKA 27A/6</tspan></tspan><tspan class="f"><tspan x="51.81" y="63.14">81-402 GDYNIA</tspan></tspan><tspan class="f"><tspan x="-21.26" y="88.4">KRS 0001161256 NIP5862415612</tspan></tspan><tspan class="f"><tspan x="31.83" y="113.66" xml:space="preserve"> ww</tspan><tspan class="p" x="64.12" y="113.66">w</tspan><tspan x="76.77" y="113.66">.cyrkarium.com</tspan></tspan></text>
+  <text transform="translate(792.55 604.08)"><tspan class="j"><tspan x="0" y="0">FUNDACJA CYRKARIUM</tspan></tspan><tspan class="f"><tspan x="14.24" y="37.89">UL. B</tspan><tspan class="o" x="59.58" y="37.89">P</tspan><tspan x="68.02" y="37.89">. DOMINIKA 27A/6</tspan></tspan><tspan class="f"><tspan x="51.81" y="63.14">81-402 GDYNIA</tspan></tspan><tspan class="f"><tspan x="-21.26" y="88.4">KRS 0001161256 NIP5862415612</tspan></tspan><tspan class="f"><tspan x="31.83" y="113.66" xml:space="preserve"> ww</tspan><tspan class="p" x="64.12" y="113.66">w</tspan><tspan x="76.77" y="113.66">.cyrkarium.com</tspan></tspan></text>
+  <g>
+    <path class="k" d="M721.91,591.44v130.46h-130.48v-130.46h130.48M724.91,588.44h-136.48v136.46h136.48v-136.46h0Z"/>
+    <g>
+      <rect class="d" x="588.43" y="588.44" width="136.46" height="136.46"/>
+      <path d="M656.72,591.41c14.36,0,28.56,4.88,39.98,13.74,11.76,9.13,19.84,21.62,23.36,36.12,8.49,34.95-13.04,70.3-48,78.79-5.08,1.23-10.28,1.86-15.45,1.86-14.36,0-28.56-4.88-39.98-13.74-11.76-9.13-19.84-21.62-23.36-36.12-4.11-16.93-1.38-34.45,7.68-49.33,9.07-14.88,23.38-25.34,40.32-29.45,5.08-1.23,10.27-1.86,15.45-1.86h0M656.71,588.41c-5.33,0-10.75.63-16.16,1.94-36.62,8.89-59.1,45.79-50.21,82.41,7.58,31.21,35.5,52.15,66.25,52.15,5.33,0,10.75-.63,16.16-1.94,36.62-8.89,59.1-45.79,50.21-82.41-7.58-31.21-35.5-52.15-66.25-52.15h0Z"/>
+      <path class="e" d="M679.4,588.43c-8.55,52.75-15.49,59.68-68.24,68.24,52.75,8.56,59.69,15.49,68.24,68.24,8.55-52.75,15.49-59.68,68.24-68.24-52.75-8.55-59.69-15.49-68.24-68.24Z"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="1.52" y="588.44" width="136.46" height="136.46"/>
+      <circle class="k" cx="69.75" cy="656.66" r="68.23"/>
+      <rect class="c" x="1.52" y="588.44" width="136.46" height="136.46"/>
+      <path d="M92.49,588.43c-8.55,52.75-15.49,59.68-68.24,68.24,52.75,8.56,59.69,15.49,68.24,68.24,8.55-52.75,15.49-59.68,68.24-68.24-52.75-8.55-59.69-15.49-68.24-68.24Z"/>
+    </g>
+    <rect class="c" x="1.52" y="588.44" width="136.48" height="136.46"/>
+  </g>
+</svg>
